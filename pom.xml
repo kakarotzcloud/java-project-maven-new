@@ -8,6 +8,8 @@
 	<name>myapp</name>
 	<url>http://maven.apache.org</url>
 	 <properties>
+	 <sonar.host.url>http://localhost:9000/</sonar.host.url>
+	 <sonar.login>squ_3625a2d926f86cc5631052e79da82a732658a5db</sonar.login>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
